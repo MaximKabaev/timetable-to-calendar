@@ -1,8 +1,8 @@
-## Important Info
+##Important Info
 
-#### This is the script that helps to transfer all of your lessons from the calendar that does not support the export feature to Google Calendar. 
+####This is the script that helps to transfer all of your lessons from the calendar that does not support the export feature to Google Calendar. 
 
-#### For now this script is specific to by school due to timings. This is the subject to change in the future.
+####For now this script is specific to by school due to timings. This is the subject to change in the future.
 
 
 ## Instructions:
