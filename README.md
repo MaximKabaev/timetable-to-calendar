@@ -1,4 +1,4 @@
-## Important Inff
+## Important Info
 
 #### This is the script that helps to transfer all of your lessons from the calendar that does not support the export feature to Google Calendar. 
 
