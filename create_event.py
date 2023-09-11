@@ -1,6 +1,5 @@
 from datetime import datetime, timedelta
 import time
-import datetime
 import pickle
 import os.path
 from googleapiclient.discovery import build
@@ -41,8 +40,8 @@ further_maths = {
     'full_lesson': 'Further Maths',
     'short_teacher1':'N',
     'teacher1':'- Mr Nickol',
-    'short_teacher2':'L',
-    'teacher2':'- Mrs Leach'
+    'short_teacher2':'W',
+    'teacher2':'- Mr White'
 }
 
 maths = {
@@ -50,8 +49,8 @@ maths = {
     'full_lesson': 'Maths',
     'short_teacher1':'N',
     'teacher1':'- Mr Nickol',
-    'short_teacher2':'J',
-    'teacher2':'- Mrs Johnson'
+    'short_teacher2':'W',
+    'teacher2':'- Mr White'
 }
 
 physics = {
@@ -66,8 +65,8 @@ physics = {
 computing = {
     'name':'c',
     'full_lesson': 'Computer Science',
-    'short_teacher1':'B',
-    'teacher1':'- Mr Bradshaw',
+    'short_teacher1':'W',
+    'teacher1':'- Mr Wiggins',
     'short_teacher2':'G',
     'teacher2':'- Mrs Githaiga'
 }
